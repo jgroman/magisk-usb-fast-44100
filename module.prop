@@ -1,0 +1,6 @@
+id=usb_fast_44100
+name=USB FAST path @44100 (NXTPAPER 14)
+version=1.0
+versionCode=1
+author=jgroman
+description=Experimental: pins the primary output and FAST mixPorts to 44100 so the device's optimal output rate is 44100 and low-latency USB streams can use a 44100 FAST path (matching a 44.1 kHz USB sink). Reversible.
